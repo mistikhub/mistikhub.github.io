@@ -1,0 +1,24 @@
+body{
+	background:black;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.name{
+	position:absolute;
+	left:230px;
+	top:5px;
+}
+h2{
+	color:blue;
+	position:absolute;
+	left:230px;
+	top:60px;
+}
+h1{
+	color:red;
+	position:absolute;
+	left:10px;
+	top:200px;
+}
